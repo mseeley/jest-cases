@@ -1,7 +1,7 @@
 {
-  "name": "@mseeley/TBD",
-  "description": "TBD",
-  "repository": "TBD",
+  "name": "@mseeley/jest-cases",
+  "description": "Jest utility for varying input provided to a test function",
+  "repository": "https://github.com/mseeley/jest-cases.git",
   "license": "MIT",
   "main": "lib/index.js",
   "version": "0.0.1",
